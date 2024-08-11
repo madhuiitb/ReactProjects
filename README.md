@@ -1,2 +1,2 @@
-# ReactProjects
-1. TrafficLights Question was asked in many MNC's
+# React Projects
+1. TrafficLights question was asked in many MNC's
